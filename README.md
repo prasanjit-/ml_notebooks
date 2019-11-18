@@ -15,3 +15,42 @@ This repository contains code and associated files for deploying ML models using
 
 
 * This repository consists of a number of tutorial notebooks for various coding exercises, mini-projects, and project files that will be used to supplement the lessons of the ML Nanodegree at Udacity. [https://github.com/prasanjit-/ml_notebooks/tree/master/sagemaker-notebooks-udacity]
+
+```
+.
+├── LICENSE
+├── Mini-Projects
+│   ├── IMDB\ Sentiment\ Analysis\ -\ XGBoost\ (Batch\ Transform)\ -\ Solution.ipynb
+│   ├── IMDB\ Sentiment\ Analysis\ -\ XGBoost\ (Batch\ Transform).ipynb
+│   ├── IMDB\ Sentiment\ Analysis\ -\ XGBoost\ (Hyperparameter\ Tuning)\ -\ Solution.ipynb
+│   ├── IMDB\ Sentiment\ Analysis\ -\ XGBoost\ (Hyperparameter\ Tuning).ipynb
+│   ├── IMDB\ Sentiment\ Analysis\ -\ XGBoost\ (Updating\ a\ Model)\ -\ Solution.ipynb
+│   ├── IMDB\ Sentiment\ Analysis\ -\ XGBoost\ (Updating\ a\ Model).ipynb
+│   └── new_data.py
+├── Project
+│   ├── README.md
+│   ├── SageMaker\ Project.ipynb
+│   ├── Web\ App\ Diagram.svg
+│   ├── serve
+│   │   ├── model.py
+│   │   ├── predict.py
+│   │   ├── requirements.txt
+│   │   └── utils.py
+│   ├── train
+│   │   ├── model.py
+│   │   ├── requirements.txt
+│   │   └── train.py
+│   └── website
+│       └── index.html
+├── README.md
+└── Tutorials
+    ├── Boston\ Housing\ -\ Updating\ an\ Endpoint.ipynb
+    ├── Boston\ Housing\ -\ XGBoost\ (Batch\ Transform)\ -\ High\ Level.ipynb
+    ├── Boston\ Housing\ -\ XGBoost\ (Batch\ Transform)\ -\ Low\ Level.ipynb
+    ├── Boston\ Housing\ -\ XGBoost\ (Deploy)\ -\ High\ Level.ipynb
+    ├── Boston\ Housing\ -\ XGBoost\ (Deploy)\ -\ Low\ Level.ipynb
+    ├── Boston\ Housing\ -\ XGBoost\ (Hyperparameter\ Tuning)\ -\ High\ Level.ipynb
+    ├── Boston\ Housing\ -\ XGBoost\ (Hyperparameter\ Tuning)\ -\ Low\ Level.ipynb
+    ├── IMDB\ Sentiment\ Analysis\ -\ XGBoost\ -\ Web\ App.ipynb
+    ├── Web\ App\ Diagram.svg
+    └── index.html
