@@ -1,11 +1,9 @@
 # Machine Learning Deployment using AWS SageMaker
 
 ```
-Meant for self-learning ML on AWS Sagemaker
+This repo was created for self-learning ML on AWS Sagemaker
 Check for related blogs at [https://binpipe.blogspot.com]
 ```
-
-Code and associated files 
 
 This repository contains code and associated files for deploying ML models using AWS SageMaker. This repository consists of a number of tutorial notebooks for various coding exercises, mini-projects, and project files.
 
