@@ -1,7 +1,9 @@
 # Machine Learning Deployment using AWS SageMaker
-`Meant for self-learning ML on AWS Sagemaker`<br/>
- Check for related blogs at [https://binpipe.blogspot.com]
 
+```
+Meant for self-learning ML on AWS Sagemaker
+Check for related blogs at [https://binpipe.blogspot.com]
+```
 
 Code and associated files 
 
