@@ -54,3 +54,5 @@ This repository contains code and associated files for deploying ML models using
     ├── IMDB\ Sentiment\ Analysis\ -\ XGBoost\ -\ Web\ App.ipynb
     ├── Web\ App\ Diagram.svg
     └── index.html
+```
+* Coding exercises and calculations used during the course AWS SageMaker, Machine Learning and AI with Python by Chandra Lingam from PacktPub [https://github.com/prasanjit-/ml_notebooks/tree/master/fm-pca-xgboost]
